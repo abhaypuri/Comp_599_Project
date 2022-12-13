@@ -4,6 +4,7 @@ Project Name - Psychological Stress Classification Using Natural Language Proces
 Project Members - Abhay Puri & Sara Besharati
 
 ## Dataset
+The data is present in the data folder 
 
 ## Code 
 We have provided 3 parts for our work and most of the code is in the .ipynb and it can be run on either google colab or kaggle.
