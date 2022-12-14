@@ -10,7 +10,7 @@ The data is present in the [data folder](https://github.com/abhaypuri/Comp_599_P
 We have provided 5 parts for our work and most of the code is in the .ipynb and it can be run on either google colab or kaggle.
 
 1. We reproduced the results of "Dreaddit: A Reddit Dataset for Stress Analysis in Social Media by E.Turcan, K.McKeown (2019)" paper 
-[Paper Reproducible Code](https://github.com/abhaypuri/Comp_599_Project/blob/main/code/Paper_reproducibility_experiments.ipynb)
+[Code](https://github.com/abhaypuri/Comp_599_Project/blob/main/code/Paper_reproducibility_experiments.ipynb)
 
 2. CNN - [CNN Code](https://github.com/abhaypuri/Comp_599_Project/blob/main/code/CNN.ipynb)
 
